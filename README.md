@@ -1,6 +1,6 @@
 # EX.NO:2c                SIMULATING ARP /RARP PROTOCOLS
 ## NAME: ROSHAN G
-## REG.NO:23014476
+## REG.NO:212223040176
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
